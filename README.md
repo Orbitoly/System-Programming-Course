@@ -23,6 +23,7 @@ Here is an example of how the game looks like:
 
 <img width="1039" alt="image" src="https://user-images.githubusercontent.com/17669444/232732257-14059c55-b75c-4714-aaf0-969abfabcb04.png">
 <img width="1032" alt="image" src="https://user-images.githubusercontent.com/17669444/232730498-684c9ccd-8da3-469e-9705-03b0580f4542.png">
+<img width="1039" alt="image" src="https://user-images.githubusercontent.com/17669444/232732651-57e4191a-5aef-47fb-8080-31b9c1391d1f.png">
 
 # Practice Goals:
 This project, written in Java, was mostly about practicing concurrency in multi-threaded enviorment.
