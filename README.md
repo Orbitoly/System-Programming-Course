@@ -20,8 +20,9 @@ C++ properties.
 This program implements a version of the well known card game "Set" (https://en.wikipedia.org/wiki/Set_(card_game))
 This version of the game supports multi-player and playing against a computer player/s.
 Here is an example of how the game looks like:
-![image](https://user-images.githubusercontent.com/117899740/220136643-588bf39b-0752-45e2-bb75-0031a7561caa.png)
-![image](https://user-images.githubusercontent.com/117899740/220136677-b60c2a3d-2b60-4521-a38e-cf9fe4034cbc.png)
+
+<img width="1039" alt="image" src="https://user-images.githubusercontent.com/17669444/232732257-14059c55-b75c-4714-aaf0-969abfabcb04.png">
+<img width="1032" alt="image" src="https://user-images.githubusercontent.com/17669444/232730498-684c9ccd-8da3-469e-9705-03b0580f4542.png">
 
 # Practice Goals:
 This project, written in Java, was mostly about practicing concurrency in multi-threaded enviorment.
