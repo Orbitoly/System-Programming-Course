@@ -9,7 +9,7 @@ The projects are:
 All made in collaboration with Ofri Tirosh - @ofrizzz.
 
 # 1. Coalition Race
-A program that simulates the coalition race - given an election outcome with connections "rank" between every pair of parties - the program will find the best coalition that can be performed.
+A program that simulates the coalition race - given parties with connections "rank" and "offer strategy" - simulates the race to create a coalition.
 
 # Practice Goals:
 The objective of this project is to design an object-oriented system and gain
